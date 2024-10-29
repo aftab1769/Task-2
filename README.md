@@ -1,2 +1,1 @@
-# simple
 # Task-1
